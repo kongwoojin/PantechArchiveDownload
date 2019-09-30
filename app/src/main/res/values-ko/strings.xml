@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PAR Download</string>
+    <string name="update_dialog_msg">%1$s 버전을 다운로드 하시겠습니까?</string>
+    <string name="already_last">최신버전입니다.\n그래도 다운로드 하시겠습니까?</string>
+    <string name="download_update_zip">Update.zip 다운로드</string>
+    <string name="yes">예</string>
+    <string name="cancel">취소</string>
+    <string name="loading">Loading...</string>
+    <string name="network_alert">네트워크가 연결되지 않았습니다!</string>
+    <string name="not_pantech">이 기기는 팬택기기가 아닙니다!</string>
+    <string name="current_ver_is">현재 버전: %1$s</string>
+    <string name="last_ver_is">최신 버전: %1$s</string>
+    <string name="last_exist">최신버전이 존재합니다!</string>
+
+    <!-- Menu -->
+    <string name="action_web">웹사이트로 이동</string>
+</resources>

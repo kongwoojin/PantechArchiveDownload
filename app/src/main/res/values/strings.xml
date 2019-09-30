@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">PAR Download</string>
+    <string name="update_dialog_msg">Do you want to download %1$s?</string>
+    <string name="already_last">Up-To date! Do you want to download?</string>
+    <string name="download_update_zip">Download Update.zip</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="loading">Loading...</string>
+    <string name="network_alert">Network not connected!</string>
+    <string name="not_pantech">This device is not pantech device!</string>
+    <string name="current_ver_is">Current Version: %1$s</string>
+    <string name="last_ver_is">Last Version: %1$s</string>
+    <string name="last_exist">Last version is exist!</string>
+
+    <!-- Urls -->
+    <string name="default_url" translatable="false">https://pantech.kongjak.com</string>
+    <string name="download_url" translatable="false">https://pantech.kongjak.com/Update_Zip/%1$s_%2$s.zip</string>
+    <string name="last_version_url" translatable="false">https://pantech.kongjak.com/_app/%1$s</string>
+
+    <!-- Menu -->
+    <string name="action_web">Go to Web</string>
+</resources>
